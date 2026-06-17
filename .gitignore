@@ -1,0 +1,36 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OSM cache (can be re-downloaded)
+osm_cache/
+
+# Video files (too large for git)
+data/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.mkv
+
+# Generated outputs
+output/
+*_curvature.csv
+*_map.html
+*_plot.png
+*_telemetry.csv
+
+# Temporary debug scripts
+_*.py
+*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
