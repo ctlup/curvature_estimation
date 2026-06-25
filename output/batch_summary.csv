@@ -1,0 +1,4 @@
+file,status,n_samples,n_curves,min_R_m,duration_s,csv
+240829_101922_001_FH,skipped,,,,,
+240829_102222_002_FH,ok,1595,397,5.7,180.0,output\240829_102222_002_FH_curvature.csv
+240829_102522_003_FH,ok,302,205,2.1,34.0,output\240829_102522_003_FH_curvature.csv
