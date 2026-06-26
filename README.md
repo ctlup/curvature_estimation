@@ -191,9 +191,6 @@ venv\Scripts\python enrich_telemetry.py data\clip.mp4 --curvature-csv output\cli
 
 ---
 
-## Viewing HTML maps
-
-The HTML map files require an internet connection to load map tiles and the Leaflet.js library. To share them without a local server use [htmlpreview.github.io](https://htmlpreview.github.io):
 
 ```
 https://htmlpreview.github.io/?https://github.com/ctlup/curvature_estimation/blob/main/output/240829_101922_001_FH_map.html
